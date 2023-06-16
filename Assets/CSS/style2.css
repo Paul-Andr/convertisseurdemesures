@@ -1,0 +1,38 @@
+html{
+    background-color: rgb(109, 189, 162);
+    
+}
+
+
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    padding-bottom: 110px;
+    
+}
+.para{
+    display: inline-block;
+    text-align: center;
+}
+
+.para img{
+    height: 250px;
+    width: 400px;
+    border-style: solid;
+    border-radius: 30px;
+}
+.distance{
+    display: inline-block;
+}
+.poids{
+    display: inline-block;
+    margin-left: 50px;
+}
+.température{
+    display: inline-block;
+    margin-left: 50px;
+}
+h2{
+    text-decoration: underline;
+}
